@@ -7,4 +7,4 @@ This matrix multiplication program is written in MIPS Assembly. It makes system 
 3. ```run```
 
 ## Clarification
-The program asks for input in the form of ```n```, ```k```, and ```m```. These values represent the dimensions of the two matrices, so the multiplication will be performed on a ```n```x```k``` and ```k```x```m```.
+The program asks for input in the form of ```n```, ```k```, and ```m```. These values represent the dimensions of the two matrices, so the multiplication will be performed on ```n```x```k``` and ```k```x```m``` matrices.
